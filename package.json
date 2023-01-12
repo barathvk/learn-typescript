@@ -9,7 +9,7 @@
     "@buynomics/bn-config": "^0.9.6",
     "bunyan": "^1.8.12",
     "class-transformer": "^0.2.3",
-    "class-validator": "0.9.1",
+    "class-validator": "0.14.0",
     "kcors": "^2.2.2",
     "koa": "^2.8.2",
     "koa-bodyparser": "^4.2.1",
